@@ -1,0 +1,15 @@
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\bin\Debug\Warmachine.exe.config
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\bin\Debug\Warmachine.exe
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\bin\Debug\Warmachine.pdb
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.csprojResolveAssemblyReference.cache
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\MainWindow.g.cs
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\App.g.cs
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine_MarkupCompile.cache
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine_MarkupCompile.lref
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\MainWindow.baml
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.g.resources
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.Properties.Resources.resources
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.csproj.GenerateResource.Cache
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.exe
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.pdb
+c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
