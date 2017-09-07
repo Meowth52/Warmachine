@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Warmachine
 {
-    class Die
+    public class Die
     {
         int CurrentSide;
         public Die()
@@ -19,17 +19,14 @@ namespace Warmachine
         }
         public bool isLastSide()
         {
-            if (CurrentSide >= 6)
+            CurrentSide++;
+            if (CurrentSide > 6)
             {
                 CurrentSide = 1;
                 return true;
             }
             else
-            {
-                CurrentSide++;
-                return false;
-            }
-            
+                return false;            
         }
     }
 }

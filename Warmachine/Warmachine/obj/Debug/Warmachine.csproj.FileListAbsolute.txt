@@ -13,3 +13,19 @@ c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachin
 c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.exe
 c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\Warmachine.pdb
 c:\users\david.l.granberg.eitech\documents\visual studio 2015\Projects\Warmachine\Warmachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\bin\Debug\Warmachine.exe.config
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\bin\Debug\Warmachine.exe
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\bin\Debug\Warmachine.pdb
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine.csprojResolveAssemblyReference.cache
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\MainWindow.g.cs
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\App.g.cs
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine_MarkupCompile.cache
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine_MarkupCompile.lref
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\MainWindow.baml
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine.g.resources
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine.Properties.Resources.resources
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine.csproj.GenerateResource.Cache
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine.csproj.CoreCompileInputs.cache
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine.exe
+C:\Users\A423102\Documents\GitHub\warmachine\Warmachine\Warmachine\obj\Debug\Warmachine.pdb
